@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace DnxPrebuild.CommandLine.ConsoleApp
+namespace DnxPrebuild.Library.ConsoleApp
 {
 	public class Program
 	{

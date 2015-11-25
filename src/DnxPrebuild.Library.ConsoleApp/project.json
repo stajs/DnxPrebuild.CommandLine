@@ -1,6 +1,6 @@
 ﻿{
 	"version": "1.0.0-*",
-	"description": "DnxPrebuild.CommandLine.ConsoleApp Console Application",
+	"description": "DnxPrebuild.Library.ConsoleApp Console Application",
 	"authors": [ "stajs" ],
 	"tags": [ "" ],
 	"projectUrl": "",
@@ -14,7 +14,7 @@
 	},
 
 	"commands": {
-		"dnx-prebuild": "DnxPrebuild.CommandLine.ConsoleApp"
+		"dnx-prebuild": "DnxPrebuild.Library.ConsoleApp"
 	},
 
 	"frameworks": {

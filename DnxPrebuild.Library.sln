@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		global.json = global.json
 	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "DnxPrebuild.CommandLine.ConsoleApp", "src\DnxPrebuild.CommandLine.ConsoleApp\DnxPrebuild.CommandLine.ConsoleApp.xproj", "{EDB3D8EC-A158-4259-A62E-1E5641785154}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "DnxPrebuild.Library.ConsoleApp", "src\DnxPrebuild.Library.ConsoleApp\DnxPrebuild.Library.ConsoleApp.xproj", "{EDB3D8EC-A158-4259-A62E-1E5641785154}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
