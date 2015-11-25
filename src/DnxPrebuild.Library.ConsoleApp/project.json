@@ -14,7 +14,7 @@
 	},
 
 	"commands": {
-		"dnx-prebuild": "DnxPrebuild.Library.ConsoleApp"
+		"prebuild-library": "DnxPrebuild.Library.ConsoleApp"
 	},
 
 	"frameworks": {
